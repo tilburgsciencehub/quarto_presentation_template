@@ -13,7 +13,7 @@ The template is made to create presentations in html using quarto for Tilburg Un
 ## How to use this template
 This template can be used to create presentations with standard formatting and the Tilburg University logo included. To use this template in a new presentation simply run the following line in the command prompt:
 ```
-quarto use template tilburgsciencehub/quarto_templates
+quarto use template tilburgsciencehub/quarto_presentation_template
 ```
 This will ask you to specify the name of the folder you want the new presentation to be created in. The name of template.qmd will also be changed to this new name.
 
